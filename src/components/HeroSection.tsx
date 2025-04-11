@@ -6,7 +6,7 @@ export const HeroSection: React.FC = () => {
     <section className="relative text-white w-full">
       {/* Notification Banner */}
       <div className="w-[280px] sm:w-[300px] md:w-[315px] h-[40px] sm:h-[45px] md:h-[50px] border backdrop-blur-[20.1px] text-sm sm:text-base md:text-base font-semibold bg-[rgba(255,255,255,0.01)] mx-auto my-[24px] sm:my-[32px] md:my-[39px] rounded-[5px] border-solid border-[rgba(255,255,255,0.27)] flex items-center justify-center shadow-md transition-opacity duration-700 opacity-0 animate-fade-in">
-        Anonymize Data with One Click! →
+        Anonymize Data with One Click!
       </div>
 
       {/* Hero Content */}
