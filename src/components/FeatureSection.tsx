@@ -37,7 +37,7 @@ export const FeatureSection: React.FC = () => {
   }, [displayedText, textColors.length, fullText.length]);
 
   return (
-    <section className="relative w-full bg-[#1A1A1A] mt-8 sm:mt-12 md:mt-16 lg:mt-24 px-4 sm:px-6 lg:px-16">
+    <section className="relative w-full mt-8 sm:mt-12 md:mt-16 lg:mt-24 px-4 sm:px-6 lg:px-16">
       {/* Text Section */}
       <div className="relative z-10">
         <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-6xl font-bold mb-4 sm:mb-6 md:mb-8 leading-tight text-center lg:text-left">
