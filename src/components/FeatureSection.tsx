@@ -72,7 +72,7 @@ export const FeatureSection: React.FC = () => {
 
       {/* Video Section */}
       <div className="relative z-10 mt-6 sm:mt-8 md:mt-12 lg:mt-16">
-        <div className="relative w-full max-w-[300px] sm:max-w-[400px] md:max-w-[600px] lg:max-w-[1200px] h-[200px] sm:h-[250px] md:h-[350px] lg:h-[500px] mx-auto bg-[#101217] rounded-lg border border-white/20 overflow-hidden">
+        <div className="relative w-full max-w-[300px] sm:max-w-[400px] md:max-w-[600px] lg:max-w-[1200px] h-[200px] sm:h-[250px] md:h-[350px] lg:h-[500px] mx-auto rounded-lg overflow-hidden">
           <video
             src="/demo-video.mp4"
             controls
